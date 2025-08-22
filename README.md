@@ -3,7 +3,7 @@ Mi segunda pagina web en html
 
 Requerimientos 
 
-1.debe tener titilos y subtitulos
+ 1.debe tener titilos y subtitulos
 
 2. Debe tener fondo sin usar CSS.
 
@@ -19,6 +19,6 @@ Requerimientos
 
 8. Debe tener una tabla.
 
-9 . Debe tener textos con iconos, textos subrayados con color y negrita. Femenino
+ 9 . Debe tener textos con iconos, textos subrayados con color y negrita. Femenino
 
 10. Debe tener las siguientes etiquetas. (Header, Footer, Meta).
